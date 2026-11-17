@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#e9ece6"/>
+<path d="M0 540H1200" stroke="#d4dbd2" stroke-width="2"/>
+<circle cx="600" cy="310" r="210" fill="none" stroke="#dce2da" stroke-width="2"/>
+<path d="M240 390h720" stroke="#c6d0c5" stroke-width="3"/>
+<g fill="none" stroke="#6e8171" stroke-width="4" opacity=".55"><path d="M340 390l45-75q15-22 43-28l125-23q40-7 72 0l115 25q28 6 45 29l47 72"/><path d="M340 390h620l-25 60H365z"/><circle cx="455" cy="445" r="44"/><circle cx="850" cy="445" r="44"/></g>
+<text x="600" y="565" text-anchor="middle" fill="#314c3a" font-family="Arial,sans-serif" font-size="34" font-weight="600">Mahindra Scorpio-N</text>
+<text x="600" y="610" text-anchor="middle" fill="#7c897d" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">VERIFIED VEHICLE PHOTO REQUIRED</text>
+<text x="600" y="655" text-anchor="middle" fill="#9ba49b" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">P.K. AUTO DEALS · IMAGE PLACEHOLDER</text>
+</svg>

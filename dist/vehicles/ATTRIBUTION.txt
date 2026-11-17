@@ -1,0 +1,118 @@
+Vehicle photo credits
+=====================
+
+All JPEG photos are local copies of image thumbnails from Wikimedia Commons.
+They have been resized by Wikimedia Commons and otherwise are unmodified.
+Each is a model-reference photo, not a photo of a specific vehicle for sale.
+
+maruti-swift.jpg
+  2018 Suzuki Swift SZ5 Boosterjet SHVS 1.0 Front.jpg
+  Creator: Vauxford
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:2018_Suzuki_Swift_SZ5_Boosterjet_SHVS_1.0_Front.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+renault-kwid.jpg
+  Renault KWID RXT(O).jpg
+  Creator: Aswin KP
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Renault_KWID_RXT(O).jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+maruti-ertiga.jpg
+  Maruti Suzuki Ertiga(2).jpg
+  Creator: Akashpbrahmavar
+  License: CC0
+  Source: https://commons.wikimedia.org/wiki/File:Maruti_Suzuki_Ertiga(2).jpg
+  License URL: https://creativecommons.org/publicdomain/zero/1.0/
+
+mahindra-thar.jpg
+  Mahindra Thar SUV in "Red Rage" color ... 01.jpg
+  Creator: Ank Kumar
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Mahindra_Thar_SUV_in_%22Red_Rage%22_color_at_Ashiana_Brahmanda,_East_Singhbhum_India_(Ank_Kumar,_Infosys_limited)_01.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+hyundai-creta.jpg
+  HYUNDAI CRETA, iX25 (SU2) China (1).jpg
+  Creator: Dinkun Chen
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:HYUNDAI_CRETA_,_iX25_(SU2)_China_(1).jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+honda-city.jpg
+  Honda City 2020.jpg
+  Creator: Thitichai R
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Honda_City_2020.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+toyota-fortuner.jpg
+  Toyota Fortuner India.jpg
+  Creator: Saiphani02
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Toyota_Fortuner_India.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+bmw-5-series.jpg
+  BMW 5 SERIES LWB SEDAN (BMW G38) China.jpg
+  Creator: Dinkun Chen
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:BMW_5_SERIES_LWB_SEDAN_(BMW_G38)_China.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+maruti-baleno.jpg
+  2022 Maruti Suzuki Baleno Alpha (India) front view.jpg
+  Creator: Milind Kwatra
+  License: CC BY 3.0
+  Source: https://commons.wikimedia.org/wiki/File:2022_Maruti_Suzuki_Baleno_Alpha_(India)_front_view.jpg
+  License URL: https://creativecommons.org/licenses/by/3.0/
+
+toyota-innova-crysta.jpg
+  Toyota Innova Crysta 2.4 Z side.jpg
+  Creator: Premnath Kudva
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Toyota_Innova_Crysta_2.4_Z_side.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+hyundai-verna.jpg
+  Hyundai Verna RC Sedan Facelift Sanming 01 2022-07-18.jpg
+  Creator: JamesYoung8167
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Hyundai_Verna_RC_Sedan_Facelift_Sanming_01_2022-07-18.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+kia-seltos.jpg
+  Kia Seltos (SP3) IMG 7482.jpg
+  Creator: Alexander Migl
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Kia_Seltos_(SP3)_IMG_7482.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+audi-q7.jpg
+  2025 Audi Q7 (4M) DSC 7492.jpg
+  Creator: Alexander Migl
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:2025_Audi_Q7_(4M)_DSC_7492.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+mercedes-e-class.jpg
+  Mercedes-Benz E-Class W213 002 China 2017-03-26.jpg
+  Creator: Navigator84
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:Mercedes-Benz_E-Class_W213_002_China_2017-03-26.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+bmw-x5.jpg
+  BMW X5 M (G05) 1X7A7047.jpg
+  Creator: Alexander Migl
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:BMW_X5_M_(G05)_1X7A7047.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
+
+mahindra-scorpio-n.jpg
+  2024 Mahindra Scorpio Z8L front.jpg
+  Creator: LuvsMG481
+  License: CC BY-SA 4.0
+  Source: https://commons.wikimedia.org/wiki/File:2024_Mahindra_Scorpio_Z8L_front.jpg
+  License URL: https://creativecommons.org/licenses/by-sa/4.0/
