@@ -1,0 +1,84 @@
+.hero {
+  isolation: isolate;
+}
+
+.hero-video {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  overflow: hidden;
+  background-color: #14251e;
+  background-image: url("https://img.youtube.com/vi/g-MX2u-DiMo/maxresdefault.jpg");
+  background-position: center;
+  background-size: cover;
+  pointer-events: none;
+}
+
+.hero-video::after {
+  position: absolute;
+  z-index: 1;
+  inset: 0;
+  background:
+    linear-gradient(90deg, rgb(9 17 14 / 76%) 0%, rgb(12 27 21 / 48%) 42%, rgb(15 31 25 / 25%) 100%),
+    linear-gradient(0deg, rgb(9 17 14 / 18%), transparent 48%);
+  content: "";
+}
+
+.hero-video iframe {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: max(100vw, 177.78vh);
+  height: max(100vh, 56.25vw);
+  border: 0;
+  transform: translate(-50%, -50%);
+}
+
+.hero::before {
+  content: none;
+}
+
+.hero-content,
+.scroll-cue,
+.hero-index {
+  z-index: 2;
+}
+
+.hero-content > * {
+  animation: hero-content-enter 700ms cubic-bezier(.2, .75, .25, 1) both;
+}
+
+.hero-content > :nth-child(1) {
+  animation-delay: 100ms;
+}
+
+.hero-content > :nth-child(2) {
+  animation-delay: 220ms;
+}
+
+.hero-content > :nth-child(3) {
+  animation-delay: 340ms;
+}
+
+.hero-content > :nth-child(4) {
+  animation-delay: 460ms;
+}
+
+@keyframes hero-content-enter {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 760px) {
+  .hero-video iframe {
+    width: max(100vw, 177.78vh);
+    height: max(100vh, 56.25vw);
+  }
+}
